@@ -15,7 +15,8 @@ The application followed the Model-View-Controller (MVC) architecture pattern. T
 - Users could search for movies by title or genre and view movie details, including the director, cast, release date, and ratings.
 - Users could add reviews and ratings for movies, view reviews from other users, and sort reviews based on relevance, date, or rating.
 - The application implemented REST APIs that allowed for seamless integration with other applications and services.
-- Performance Optimization:
+
+## Performance Optimization:
 - To ensure fast and seamless access to the application, I optimized the performance of the REST APIs by implementing efficient query mechanisms, caching frequently accessed data, and minimizing the use of network resources. As a result, the average response time for API calls was reduced to less than 100 milliseconds, enhancing the user experience and improving the overall performance of the application.
 
 ## Conclusion:
