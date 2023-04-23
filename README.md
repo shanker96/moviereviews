@@ -17,7 +17,7 @@ The application followed the Model-View-Controller (MVC) architecture pattern. T
 - The application implemented REST APIs that allowed for seamless integration with other applications and services.
 
 ## Performance Optimization:
-- To ensure fast and seamless access to the application, I optimized the performance of the REST APIs by implementing efficient query mechanisms, caching frequently accessed data, and minimizing the use of network resources. As a result, the average response time for API calls was reduced to less than 100 milliseconds, enhancing the user experience and improving the overall performance of the application.
+To ensure fast and seamless access to the application, I optimized the performance of the REST APIs by implementing efficient query mechanisms, caching frequently accessed data, and minimizing the use of network resources. As a result, the average response time for API calls was reduced to less than 100 milliseconds, enhancing the user experience and improving the overall performance of the application.
 
 ## Conclusion:
 The movie review web application developed using Spring Boot and MongoDB was a successful project that demonstrated my proficiency in full-stack development and REST API implementation. The application's features and optimized performance make it a reliable and user-friendly platform for movie enthusiasts.
